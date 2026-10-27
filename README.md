@@ -1,5 +1,5 @@
 \#second comment
-\#test comment
+#test comment
 
-"# Project-C-Spread-of-Disease"
+"# Project C - edited by A"
 
