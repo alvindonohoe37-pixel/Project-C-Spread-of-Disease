@@ -1,5 +1,4 @@
 \#second comment
-\#test comment
+#test comment
 
-"# Project C - edited by B"
-
+"# Project C - edited by A and B"
